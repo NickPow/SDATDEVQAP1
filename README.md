@@ -17,7 +17,7 @@ This is a Java command-line banking application developed using Maven. It allows
 
 ---
 
-## Technologies
+## Technologies Used
 
 - Java
 - Maven
@@ -45,5 +45,7 @@ All accounts are stored in memory during runtime.
 
 1. Clone the repository
 2. Compile and run the application using Maven:
+
 mvn compile
+
 mvn exec:java -Dexec.mainClass=banking.Main
